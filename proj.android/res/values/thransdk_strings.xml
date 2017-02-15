@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="thransdk_alipay_pay">ALIPAY2</string>
+	<string name="thransdk_wx_pay">WEIXIN</string>
+	<string name="thransdk_sms_pay">SENDSMS</string>
+	<string name="thransdk_xiaomi_pay">XIAOMISDK</string>
+	<string name="thransdk_ydbase_pay">YDBASE_SDK</string>
+	<string name="thransdk_um_pay">UMPAY</string>
+	<string name="thransdk_alipay_group">ALIPAY</string>
+	<string name="thransdk_sms_group">MPAYMENT</string>
+	<string name="thransdk_alipay_str">支付宝</string>
+	<string name="thransdk_wx_str">微信支付</string>
+	<string name="thransdk_sms_str">短信支付</string>
+	<string name="thransdk_xiaomi_str">小米</string>
+	<string name="thransdk_um_str">话付宝</string>
+	<string name="thransdk_paytype_ALIPAY2">支付宝</string>
+	<string name="thransdk_paytype_WEIXIN">微信</string>
+	<string name="thransdk_paytype_SENDSMS">短信</string>
+	<string name="thransdk_paytype_XIAOMISDK">小米</string>
+	<string name="thransdk_paytype_YDBASE_SDK">游戏基地</string>
+	<string name="thransdk_paytype_UMPAY">话付宝</string>
+	<string name="thransdk_paytypetitle_ALIPAY">话付宝</string>
+	<string name="thransdk_paytypetitle_MPAYMENT">话付宝</string>
+	<string name="thransdk_paytypetitle_WEIXIN">话付宝</string>
+	<string name="thransdk_server">客服电话 : 4009908188</string>
+
+	<!--充值结果===成功的提示语-->
+	<string name="thransdk_pay_fail">充值失败，请重新尝试！</string>
+	<!--充值结果===成功的提示语-->
+	<string name="thransdk_pay_suc">订单已提交，扣费成功后，我们会立即发货。请耐心等待！</string>
+	<!--进行支付是loading框的===title-->
+	<string name="thransdk_dialog_title">温馨提示</string>
+	<!--进行支付是loading框和充值结果的===客服电话-->
+	<string name="thransdk_cu_server">如果有疑问，请致电客服 ：400-990-8188</string>
+	<!--进行支付是loading框的===提示语-->
+	<string name="thransdk_loading">您的订单已经提交，正在拼命处理...</string>
+	<!--全面板支付的===失败后的提示语-->
+	<string name="thransdk_paytype_fall">支付失败，请选择其他支付方式</string>
+	<!--全面板支付的===title-->
+	<string name="thransdk_pay_center">支付中心</string>
+	<!--快冲下屏幕顶端的提示语#SDK4.0.1.2（含） 以下使用	您将支付%1$.2f元获取%2$s道具！	-->
+	<string name="thransdk_pay_quicktips"></string>
+	<string name="thransdk_qxt_fail">已被禁止发送短信。可在手机设置里面重新修改。才能顺利完成手机注册哟。</string>
+</resources>

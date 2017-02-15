@@ -1,0 +1,15 @@
+info face="Î¢ÈíÑÅºÚ" size=32 bold=1 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=31 base=25 scaleW=280 scaleH=30 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="eventpropnum_0.png"
+chars count=11
+char id=48   x=119   y=0     width=21    height=29    xoffset=0     yoffset=0     xadvance=21    page=0  chnl=15
+char id=49   x=141   y=0     width=21    height=29    xoffset=0     yoffset=0     xadvance=21    page=0  chnl=15
+char id=50   x=207   y=0     width=20    height=29    xoffset=0     yoffset=0     xadvance=20    page=0  chnl=15
+char id=51   x=163   y=0     width=21    height=29    xoffset=0     yoffset=0     xadvance=21    page=0  chnl=15
+char id=52   x=0     y=0     width=24    height=29    xoffset=0     yoffset=0     xadvance=24    page=0  chnl=15
+char id=53   x=228   y=0     width=20    height=29    xoffset=0     yoffset=0     xadvance=20    page=0  chnl=15
+char id=54   x=50    y=0     width=22    height=29    xoffset=0     yoffset=0     xadvance=22    page=0  chnl=15
+char id=55   x=185   y=0     width=21    height=29    xoffset=0     yoffset=0     xadvance=21    page=0  chnl=15
+char id=56   x=73    y=0     width=22    height=29    xoffset=0     yoffset=0     xadvance=22    page=0  chnl=15
+char id=57   x=96    y=0     width=22    height=29    xoffset=0     yoffset=0     xadvance=22    page=0  chnl=15
+char id=120  x=25    y=0     width=24    height=29    xoffset=0     yoffset=0     xadvance=24    page=0  chnl=15

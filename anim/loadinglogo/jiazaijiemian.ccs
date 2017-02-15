@@ -1,0 +1,11 @@
+<Solution>
+  <PropertyGroup Name="jiazaijiemian" Version="2.3.3.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Image Name="jzjm_logo.png" />
+        <Project Name="loadinglogo.csd" Type="Node" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

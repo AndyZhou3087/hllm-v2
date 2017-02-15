@@ -1,0 +1,29 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="boss05packer.csi" Type="Plist" ID="727514a0-f778-4bbe-83bb-54d06485c164" Version="2.3.3.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="bingguai/bingguai_bing1.png" />
+      <FilePathData Path="bingguai/bingguai_bing2.png" />
+      <FilePathData Path="bingguai/bingguai_shenti.png" />
+      <FilePathData Path="bingguai/bingguai_tou.png" />
+      <FilePathData Path="bingguai/bingguai_xuehua1.png" />
+      <FilePathData Path="bingguai/bingguai_xuehua2.png" />
+      <FilePathData Path="bingguai/bingguai_xuehua3.png" />
+      <FilePathData Path="bingguai/bingguai_xuehua4.png" />
+      <FilePathData Path="bingguai/bingguai_yanjing.png" />
+      <FilePathData Path="bingguai/bingguai_yanjing_banzheng.png" />
+      <FilePathData Path="bingguai/bingguai_yanjing_biyan.png" />
+      <FilePathData Path="bingguai/bingguai_yanjing_ku.png" />
+      <FilePathData Path="bingguai/bingguai_youbi.png" />
+      <FilePathData Path="bingguai/bingguai_youer.png" />
+      <FilePathData Path="bingguai/bingguai_youjiao.png" />
+      <FilePathData Path="bingguai/bingguai_youshou.png" />
+      <FilePathData Path="bingguai/bingguai_youtui.png" />
+      <FilePathData Path="bingguai/bingguai_zuoer.png" />
+      <FilePathData Path="bingguai/bingguai_zuojiao.png" />
+      <FilePathData Path="bingguai/bingguai_zuoshou.png" />
+      <FilePathData Path="bingguai/bingguai_zuotui.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

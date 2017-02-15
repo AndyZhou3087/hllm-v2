@@ -1,0 +1,46 @@
+<UserData Version="2.3.3.0">
+  <Properties>
+    <Item Key="CocosRecentOperation">
+      <Value ctype="CocosRecentOperation">
+        <LastPublishType Value="Resource" />
+        <IsLastPublish Value="True" />
+        <LastRunType Value="Windows" />
+      </Value>
+    </Item>
+    <Item Key="PackageParamsKey">
+      <Value ctype="PackageParams">
+        <LuaIsEncrypt Value="False" />
+        <LuaEncryptKey Value="" />
+        <LuaEncryptSign Value="" />
+        <Android_PackageName Value="org.cocos.ceshi" />
+        <AndroidkeyStore Value="" />
+        <AndroidVersion Value="" />
+        <iOS_Target Value="ceshi iOS" />
+        <iOS_BundleID Value="" />
+        <Platform Value="None" />
+        <RunPlatform Value="None" />
+        <FrameworkVersion Value="" />
+        <IsDebugKeystore Value="True" />
+        <EnableSourceMap Value="False" />
+        <EnableHTML5Advanced Value="False" />
+      </Value>
+    </Item>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="boss05.csd" />
+          <FilePathData Path="boss03.csd" />
+          <FilePathData Path="boss03packer.csi" />
+          <FilePathData Path="boss05packer.csi.csi" />
+          <FilePathData Path="boss03hited.csd" />
+          <FilePathData Path="boss05hited.csd" />
+          <FilePathData Path="boss06.csd" />
+          <FilePathData Path="boss06hited.csd" />
+          <FilePathData Path="hero.csd" />
+          <FilePathData Path="herofail.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="herofail.csd" />
+      </Value>
+    </Item>
+  </Properties>
+</UserData>

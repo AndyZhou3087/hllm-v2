@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>boss91.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{487,0},{175,153}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{175,153}</string>
+			</dict>
+			<key>boss92.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{240,157}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{240,157}</string>
+			</dict>
+			<key>boss93.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{240,0},{247,151}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{247,151}</string>
+			</dict>
+			<key>boss94.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{240,151},{179,140}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{179,140}</string>
+			</dict>
+			<key>boss95.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,157},{180,123}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{180,123}</string>
+			</dict>
+			<key>boss96.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{662,0},{195,94}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{195,94}</string>
+			</dict>
+			<key>boss97.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,280},{202,95}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{202,95}</string>
+			</dict>
+			<key>boss98.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{95,280},{192,81}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{192,81}</string>
+			</dict>
+			<key>boss9ku.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{419,151},{79,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{79,54}</string>
+			</dict>
+			<key>boss9st.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{857,0},{100,145}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{100,145}</string>
+			</dict>
+			<key>boss9yj.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{180,157},{61,51}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{61,51}</string>
+			</dict>
+			<key>boss9ys.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{180,218},{36,61}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{36,61}</string>
+			</dict>
+			<key>boss9zs.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{180,279},{31,51}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{31,51}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>boss09packer.png</string>
+			<key>realTextureFileName</key>
+			<string>boss09packer.png</string>
+			<key>size</key>
+			<string>{1024,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

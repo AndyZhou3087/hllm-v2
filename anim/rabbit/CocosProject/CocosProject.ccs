@@ -1,0 +1,62 @@
+<Solution>
+  <PropertyGroup Name="CocosProject" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Image Name="cgl.png" />
+        <Project Name="hero.csd" Type="Skeleton" />
+        <PlistInfo Name="heropacker.csi" Type="Plist" />
+        <Image Name="lb.png" />
+        <Image Name="rabbit_bizi.png" />
+        <Image Name="rabbit_bizi_daxiao.png" />
+        <Image Name="rabbit_bizi_waitou.png" />
+        <Image Name="rabbit_bizi_zhayan.png" />
+        <Image Name="rabbit_body.png" />
+        <Image Name="rabbit_eyes.png" />
+        <Image Name="rabbit_head.png" />
+        <Image Name="rabbit_hudiejie.png" />
+        <Image Name="rabbit_hudiejieyy.png" />
+        <Image Name="rabbit_meimao.png" />
+        <Image Name="rabbit_meimao_daxiao.png" />
+        <Image Name="rabbit_meimao_juezui.png" />
+        <Image Name="rabbit_meimao_kumeimao.png" />
+        <Image Name="rabbit_meimao_kuyanjing.png" />
+        <Image Name="rabbit_meimao_kuyoushou1.png" />
+        <Image Name="rabbit_meimao_kuyoushou2.png" />
+        <Image Name="rabbit_meimao_kuzuiba.png" />
+        <Image Name="rabbit_meimao_kuzuoshou1.png" />
+        <Image Name="rabbit_meimao_kuzuoshou2.png" />
+        <Image Name="rabbit_meimao_waitou.png" />
+        <Image Name="rabbit_meimao_yanlei.png" />
+        <Image Name="rabbit_menya.png" />
+        <Image Name="rabbit_menya_daxiao.png" />
+        <Image Name="rabbit_menya_waitou.png" />
+        <Image Name="rabbit_menya_zhayan.png" />
+        <Image Name="rabbit_tou_waitou.png" />
+        <Image Name="rabbit_yanjing_daxiao.png" />
+        <Image Name="rabbit_yanjing_juezui.png" />
+        <Image Name="rabbit_yanjing_waitou.png" />
+        <Image Name="rabbit_yanjing1_zhayan.png" />
+        <Image Name="rabbit_yanjing2_zhayan.png" />
+        <Image Name="rabbit_yanjing3_zhayan.png" />
+        <Image Name="rabbit_youerduo1.png" />
+        <Image Name="rabbit_youerduo2.png" />
+        <Image Name="rabbit_youerduo3.png" />
+        <Image Name="rabbit_youjiao.png" />
+        <Image Name="rabbit_youshou.png" />
+        <Image Name="rabbit_zuiba.png" />
+        <Image Name="rabbit_zuiba_daxiao.png" />
+        <Image Name="rabbit_zuiba_juezui.png" />
+        <Image Name="rabbit_zuiba_kubizi.png" />
+        <Image Name="rabbit_zuiba_waitou.png" />
+        <Image Name="rabbit_zuiba_zhayan.png" />
+        <Image Name="rabbit_zuoerduo1.png" />
+        <Image Name="rabbit_zuoerduo2.png" />
+        <Image Name="rabbit_zuoerduo3.png" />
+        <Image Name="rabbit_zuojiao.png" />
+        <Image Name="rabbit_zuoshou.png" />
+        <Image Name="sbl.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

@@ -1,0 +1,11 @@
+<Solution>
+  <PropertyGroup Name="Guangquan" Version="2.3.3.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Image Name="stagegx.png" />
+        <Project Name="stagegx.csd" Type="Node" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

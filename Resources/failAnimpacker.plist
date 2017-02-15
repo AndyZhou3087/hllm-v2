@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>shibai_body.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,1200},{189,146}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{189,146}</string>
+			</dict>
+			<key>shibai_er01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{146,1200},{97,101}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{97,101}</string>
+			</dict>
+			<key>shibai_er02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{102,1557},{91,84}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{91,84}</string>
+			</dict>
+			<key>shibai_fx.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1001,0},{56,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{56,12}</string>
+			</dict>
+			<key>shibai_head.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,1389},{168,150}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{168,150}</string>
+			</dict>
+			<key>shibai_lei.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{950,0},{110,51}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{110,51}</string>
+			</dict>
+			<key>shibai_xinxin.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1013,0},{11,11}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{11,11}</string>
+			</dict>
+			<key>shibai_zhu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,1557},{80,102}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{80,102}</string>
+			</dict>
+			<key>tuzi_shibai.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,1650},{244,336}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{244,336}</string>
+			</dict>
+			<key>yun/020001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{550,400}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{550,400}</string>
+			</dict>
+			<key>yun/020004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{550,0},{550,400}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{550,400}</string>
+			</dict>
+			<key>lei/00001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,400},{550,400}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{550,400}</string>
+			</dict>
+			<key>lei/00003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{550,550},{550,400}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{550,400}</string>
+			</dict>
+			<key>lei/00005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,800},{550,400}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{550,400}</string>
+			</dict>
+			<key>lei/00007.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{550,1100},{550,400}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{550,400}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>failAnimpacker.png</string>
+			<key>realTextureFileName</key>
+			<string>failAnimpacker.png</string>
+			<key>size</key>
+			<string>{1024,2048}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>2048</integer>
+		</dict>
+	</dict>
+</plist>

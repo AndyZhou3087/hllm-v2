@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>boss2st.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{87,141}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{87,141}</string>
+			</dict>
+			<key>boss2weib.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{27,198},{34,19}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{34,19}</string>
+			</dict>
+			<key>boss2weib1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,141},{76,27}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{76,27}</string>
+			</dict>
+			<key>boss2weibx.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,217},{61,27}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{61,27}</string>
+			</dict>
+			<key>boss2yanj.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{27,260},{18,22}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{18,22}</string>
+			</dict>
+			<key>boss2yanj1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{46,198},{23,27}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{23,27}</string>
+			</dict>
+			<key>boss2yanj2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{52,141},{17,14}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{17,14}</string>
+			</dict>
+			<key>boss2yj.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,278},{36,43}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{36,43}</string>
+			</dict>
+			<key>boss2ys.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{27,141},{25,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{25,30}</string>
+			</dict>
+			<key>boss2zb.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{27,171},{27,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{27,24}</string>
+			</dict>
+			<key>boss2zs.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{51,171},{23,23}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{23,23}</string>
+			</dict>
+			<key>boss2zt.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{27,232},{28,23}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{28,23}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>boss02packer.png</string>
+			<key>realTextureFileName</key>
+			<string>boss02packer.png</string>
+			<key>size</key>
+			<string>{128,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>128</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

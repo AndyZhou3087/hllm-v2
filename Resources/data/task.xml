@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ach>
+	<s id="1" name="炸弹人" des="使用炸弹道具5次" count="5" ex="2" rcount="2" rtype="7"/>
+	<s id="2" name="学霸来了" des="使用查找道具10次" count="10" ex="4" rcount="2" rtype="7"/>
+	<s id="3" name="挑战达人" des="挑战成功10次关卡" count="10" ex="19" rcount="200" rtype="8"/>
+	<s id="4" name="有钱任性" des="消耗1000金币" count="1000" ex="8" rcount="5" rtype="7"/>
+	<s id="5" name="时间冻结者" des="使用时间冻结道具3次" count="3" ex="3" rcount="10" rtype="7"/>
+	<s id="6" name="眼花缭乱" des="使用重排道具5次" count="5" ex="5" rcount="100" rtype="8"/>
+	<s id="7" name="精力充沛" des="消耗体力50点" count="50" ex="9" rcount="500" rtype="8"/>
+</ach>

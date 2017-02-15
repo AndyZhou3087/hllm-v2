@@ -1,0 +1,21 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="hamsterpacker" Type="Plist" ID="433be43f-e34e-479d-86cc-b3ae32461d39" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hamsterj1.png" />
+      <FilePathData Path="hamsterj2.png" />
+      <FilePathData Path="hamsterr1.png" />
+      <FilePathData Path="hamsterr2.png" />
+      <FilePathData Path="hamsters1.png" />
+      <FilePathData Path="hamsters2.png" />
+      <FilePathData Path="hamsterst.png" />
+      <FilePathData Path="hamsterwb.png" />
+      <FilePathData Path="hamsteryj1.png" />
+      <FilePathData Path="hamsteryj2.png" />
+      <FilePathData Path="hamsteryj3.png" />
+      <FilePathData Path="hamsterzb.png" />
+      <FilePathData Path="hamsterzb1.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

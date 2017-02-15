@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="custom_rules" >
+
+	<xmlproperty file="Androidmanifest.xml"/>
+	<target name="readversion">
+         <echo message="---${manifest(android:versionName)}"></echo>
+	</target>
+	<tstamp>
+		<format property="TODAY_CN" pattern="yyyyMMdd" locale="zh"/> 
+	</tstamp>
+    <property name="out.unaligned.dir" value="${basedir}/Channel_${manifest(android:versionName)}_build/" />
+    <mkdir dir="${out.unaligned.dir}" />
+	
+	<taskdef name="foreach" classname="net.sf.antcontrib.logic.ForEach" classpath="${basedir}/ant-contrib/ant-contrib-1.0b3.jar" />
+    <target name="replacechannel">
+	
+        <echo>*********************** replacechannel channel</echo>
+        <echo>*********************** replace otchannel: ${channel}</echo>
+        <replaceregexp file="AndroidManifest.xml"
+            match='otchannel'
+            replace='${channel}'
+            byline="false"
+            encoding="utf-8"
+        />
+        <property name="out.unaligned.file" location="${out.unaligned.dir}/hllm_${manifest(android:versionName)}_${channel}_${TODAY_CN}.apk"/>
+        
+    </target>
+
+    <target name="make_one_channels" depends="readversion,savemanifest,replacechannel,release,replacemanifest,deletebin" description="description">
+    </target>
+
+    <target name="replacemanifest">
+        <echo>*********************** replacemanifest</echo>
+        <delete file="${basedir}/AndroidManifest.xml"/>
+        <copy file="../temp/build/META-INF/AndroidManifest.xml" todir="${basedir}" encoding="utf-8"/>
+    </target>
+
+    <target name="savemanifest">
+        <echo>*********************** savemanifest</echo>
+        <copy file="${basedir}/AndroidManifest.xml" todir="../temp/build/META-INF" encoding="utf-8" />
+    </target>
+
+    <target name="deletebin">
+        <delete dir="${basedir}/bin" />
+    </target>
+
+    <target name="morechannel">
+        <foreach target="make_one_channels" list="${release_channels}" delimiter="," param="channel">
+        </foreach>
+    </target>
+</project>

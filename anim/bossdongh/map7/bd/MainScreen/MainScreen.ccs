@@ -1,0 +1,30 @@
+<Solution>
+  <PropertyGroup Name="MainScreen" Version="2.3.3.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Image Name="boss7tou.png" />
+        <Image Name="boss7yer.png" />
+        <Image Name="boss7ys1.png" />
+        <Image Name="boss7yyyq.png" />
+        <Image Name="boss7yyyqzb.png" />
+        <Image Name="boss7zer.png" />
+        <Image Name="boss7zs.png" />
+        <Image Name="boss7zyyq.png" />
+        <Project Name="boss07hited.csd" Type="Node" />
+        <Image Name="boss7y1.png" />
+        <Image Name="boss7y2.png" />
+        <Image Name="boss7y3.png" />
+        <Image Name="boss7y4.png" />
+        <Image Name="boss7z1.png" />
+        <Image Name="boss7z2.png" />
+        <Image Name="boss7z3.png" />
+        <Image Name="boss7z4.png" />
+        <PlistInfo Name="boss07packer.csi" Type="Plist" />
+        <Image Name="boss7yy.png" />
+        <Image Name="boss7zb.png" />
+        <Image Name="boss7zy.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

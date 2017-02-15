@@ -1,0 +1,25 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="boss6packer" Type="Plist" ID="a4bc8f4c-4ae5-4932-8dd4-ac3b8a752cc3" Version="2.3.3.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="wushi/wushi_lian1.png" />
+      <FilePathData Path="wushi/wushi_lian2.png" />
+      <FilePathData Path="wushi/wushi_lingjie.png" />
+      <FilePathData Path="wushi/wushi_maozi.png" />
+      <FilePathData Path="wushi/wushi_youbi_shang.png" />
+      <FilePathData Path="wushi/wushi_youbi_xia.png" />
+      <FilePathData Path="wushi/wushi_youbi_xia2.png" />
+      <FilePathData Path="wushi/wushi_youshou_1.png" />
+      <FilePathData Path="wushi/wushi_youshou_2.png" />
+      <FilePathData Path="wushi/wushi_zuobi_shang.png" />
+      <FilePathData Path="wushi/wushi_zuobi_xia.png" />
+      <FilePathData Path="wushi/wushi_zuobi_xia2.png" />
+      <FilePathData Path="wushi/wushi_zuoshou_1.png" />
+      <FilePathData Path="wushi/wushi_zuoshou_2.png" />
+      <FilePathData Path="wushi/wushi_weiba1.png" />
+      <FilePathData Path="wushi/wushi_weiba2.png" />
+      <FilePathData Path="wushi/wushi_weiba3.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bossskill>
+	<s bid="1" name="翻牌" type="0" des="使元件反转过去" tcount="20" ttime="0" ecount="2"/>
+	<s bid="2" name="问号牌" type="1" des="使元件变成问号牌" tcount="14,30" ttime="0" ecount="1,2"/>
+	<s bid="3" name="视觉遮挡" type="2" des="吐出烟雾遮挡视线" tcount="8,18,30" ttime="0" ecount="0,0,0"/>
+	<s bid="4" name="问号牌" type="1" des="使元件变成问号牌" tcount="12,26,40" ttime="0" ecount="1,2,3"/>
+	<s bid="5" name="冰冻" type="3" des="冰冻元件" tcount="12,24,40" ttime="0" ecount="2,2,3"/>
+	<s bid="6" name="增加元件" type="4" des="增加元件" tcount="10,24,48" ttime="0" ecount="2,2,3"/>
+	<s bid="7" name="变色" type="5" des="将元件颜色变成黑白" tcount="10,20,30" ttime="0" ecount="0,0,0"/>
+	<s bid="8" name="冰冻" type="3" des="冰冻元件" tcount="10,22,34" ttime="0" ecount="2,3,4"/>
+	<s bid="9" name="变色" type="5" des="将元件颜色变成黑白" tcount="10,20,30" ttime="0" ecount="0,0,0"/>
+	<s bid="10" name="增加元件" type="4" des="增加元件" tcount="14,32,44" ttime="0" ecount="3,4,5"/>
+</bossskill>

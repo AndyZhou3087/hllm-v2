@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>boss7tou.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{541,0},{77,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{77,68}</string>
+			</dict>
+			<key>boss7y1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{225,0},{55,113}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{55,113}</string>
+			</dict>
+			<key>boss7y2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{444,0},{97,70}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{97,70}</string>
+			</dict>
+			<key>boss7y3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{85,0},{68,140}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{68,140}</string>
+			</dict>
+			<key>boss7y4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,136},{90,119}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{90,119}</string>
+			</dict>
+			<key>boss7yer.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{226,114},{21,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{21,30}</string>
+			</dict>
+			<key>boss7ys1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{338,0},{80,106}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{80,106}</string>
+			</dict>
+			<key>boss7yy.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{225,55},{24,13}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{24,13}</string>
+			</dict>
+			<key>boss7z1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{85,136}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{85,136}</string>
+			</dict>
+			<key>boss7z2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{249,55},{116,73}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{116,73}</string>
+			</dict>
+			<key>boss7z3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{85,68},{57,141}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{57,141}</string>
+			</dict>
+			<key>boss7z4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{90,125},{70,98}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{70,98}</string>
+			</dict>
+			<key>boss7zb.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{226,68},{46,22}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{46,22}</string>
+			</dict>
+			<key>boss7zer.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{188,125},{20,29}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{20,29}</string>
+			</dict>
+			<key>boss7zs.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{618,0},{50,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{50,100}</string>
+			</dict>
+			<key>boss7zy.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{188,162},{17,13}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{17,13}</string>
+			</dict>
+			<key>boss7yyyq.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{217,144},{20,19}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{20,19}</string>
+			</dict>
+			<key>boss7yyyqzb.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{322,55},{46,16}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{46,16}</string>
+			</dict>
+			<key>boss7zyyq.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{188,145},{18,17}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{18,17}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>boss07packer.png</string>
+			<key>realTextureFileName</key>
+			<string>boss07packer.png</string>
+			<key>size</key>
+			<string>{1024,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

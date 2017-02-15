@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:clickable="true">
+
+    <!-- 商城点击商品后的商品dialog -->
+
+    <LinearLayout
+        android:id="@+id/nearLayout"
+        android:layout_width="482dp"
+        android:layout_height="300dp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/thransdk_dialog_back"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/dialog_paytitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="5dip"
+            android:textColor="#ff5c2e00"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <!-- 在LinearLayout中加按钮 -->
+
+        <LinearLayout
+            android:id="@+id/paytype_content"
+            android:layout_width="fill_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/thransdk_dialog_mid"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:id="@+id/paytype_tag"
+                android:layout_width="160dp"
+                android:layout_height="fill_parent">
+
+                <TextView
+                    android:id="@+id/paytype_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/thransdk_goods_title"
+                    android:gravity="center"
+                    android:textColor="#ff5c2e00"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/paytype_goodsname"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:layout_marginBottom="10dp"
+                    android:textColor="#ff5c2e00"
+                    android:textSize="15sp" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="1dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center"
+                android:background="#4e2b03" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_marginLeft="35dp"
+                android:gravity="left|center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/paytype_goodsdes"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="5dp"
+                    android:textColor="#ff5c2e00"
+                    android:textSize="15sp" />
+
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/dialog_payfall"
+            android:layout_width="wrap_content"
+            android:layout_height="23dp"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:paddingLeft="5dp"
+            android:paddingTop="5dp">
+
+            <ImageView
+                android:id="@+id/dialog_payfall_image"
+                android:layout_width="15dp"
+                android:layout_height="15dp"
+                android:background="@drawable/thransdk_dialog_fallshow"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/dialog_payfall_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#ff552801"
+                android:textSize="12sp"
+                android:textStyle="bold"
+                android:visibility="gone" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/dialog_paybox"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_below="@id/dialog_payfall"
+            android:gravity="left"
+            android:orientation="vertical">
+
+            <GridView
+                android:id="@+id/paytypelist"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:columnWidth="120dp"
+                android:gravity="center"
+                android:horizontalSpacing="7dp"
+                android:numColumns="3"
+                android:paddingBottom="10dp"
+                android:paddingLeft="10dp"
+                android:paddingTop="0dp"
+                android:stretchMode="columnWidth"
+                android:verticalSpacing="5dp"></GridView>
+        </LinearLayout>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/cancle"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignRight="@+id/nearLayout"
+        android:layout_alignTop="@+id/nearLayout"
+        android:background="@drawable/thransdk_dialog_cancle" />
+
+</RelativeLayout>

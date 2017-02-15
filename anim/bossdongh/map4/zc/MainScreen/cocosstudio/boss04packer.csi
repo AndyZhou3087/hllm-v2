@@ -1,0 +1,26 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="boss04packer" Type="Plist" ID="803a98d3-171c-462c-8c3d-86ba9ae6efae" Version="2.3.3.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="boss6disy.png" />
+      <FilePathData Path="boss6disy1.png" />
+      <FilePathData Path="boss6disy111.png" />
+      <FilePathData Path="boss6disy2.png" />
+      <FilePathData Path="boss6disy221.png" />
+      <FilePathData Path="boss6ssy.png" />
+      <FilePathData Path="boss6ssy1.png" />
+      <FilePathData Path="boss6ssy111.png" />
+      <FilePathData Path="boss6ssy2.png" />
+      <FilePathData Path="boss6ssy3.png" />
+      <FilePathData Path="boss6st.png" />
+      <FilePathData Path="boss6yj1.png" />
+      <FilePathData Path="boss6yj2.png" />
+      <FilePathData Path="boss6yj3.png" />
+      <FilePathData Path="boss6ys.png" />
+      <FilePathData Path="boss6ysx.png" />
+      <FilePathData Path="boss6zs.png" />
+      <FilePathData Path="boss6zsx.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

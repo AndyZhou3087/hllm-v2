@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>boss1by.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{390,0},{27,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{27,24}</string>
+			</dict>
+			<key>boss1by1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{327,0},{28,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{28,26}</string>
+			</dict>
+			<key>boss1hua.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{87,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{87,58}</string>
+			</dict>
+			<key>boss1lian.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{159,0},{62,48}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{62,48}</string>
+			</dict>
+			<key>boss1st.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{87,0},{51,72}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{51,72}</string>
+			</dict>
+			<key>boss1tyyz.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{305,36},{10,21}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{10,21}</string>
+			</dict>
+			<key>boss1yx.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{221,0},{46,62}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{46,62}</string>
+			</dict>
+			<key>boss1yy.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{434,0},{10,16}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{10,16}</string>
+			</dict>
+			<key>boss1yz.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{355,19},{31,15}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{31,15}</string>
+			</dict>
+			<key>boss1zb.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{283,36},{22,10}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{22,10}</string>
+			</dict>
+			<key>boss1zbtgyz.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{355,0},{35,19}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{35,19}</string>
+			</dict>
+			<key>boss1zx.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{283,0},{36,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{36,44}</string>
+			</dict>
+			<key>boss1zy.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{417,0},{11,17}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{11,17}</string>
+			</dict>
+			<key>boss1zz.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{327,26},{21,13}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{21,13}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>boss01packer.png</string>
+			<key>realTextureFileName</key>
+			<string>boss01packer.png</string>
+			<key>size</key>
+			<string>{512,64}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>64</integer>
+		</dict>
+	</dict>
+</plist>

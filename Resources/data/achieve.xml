@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ach>
+	<s id="1" name="消消消" des="累计消除100个元件。" count="100" ex="0" rcount="100" rtype="8"/>
+	<s id="2" name="消除达人" des="累计消除500个元件。" count="500" ex="0" rcount="200" rtype="8"/>
+	<s id="3" name="眼明手快" des="累计消除1000个元件。" count="1000" ex="0" rcount="300" rtype="8"/>
+	<s id="4" name="猴子也疯狂" des="消除猴子50个。" count="50" ex="10" rcount="2" rtype="4"/>
+	<s id="5" name="武松打虎" des="消除老虎100个。" count="100" ex="11" rcount="5" rtype="4"/>
+	<s id="6" name="土豪任性" des="充值1000个钻石。" count="1000" ex="7" rcount="200" rtype="7"/>
+	<s id="7" name="时间不够用" des="累计使用加时道具10个。" count="10" ex="6" rcount="10" rtype="7"/>
+	<s id="8" name="就喜欢乱来" des="累计使用重排道具10个。" count="10" ex="5" rcount="10" rtype="7"/>
+	<s id="9" name="快速查找" des="累计使用查找道具10个。" count="10" ex="4" rcount="10" rtype="7"/>
+	<s id="10" name="时间冻结者" des="累计使用时间冻结道具10个。" count="10" ex="3" rcount="10" rtype="7"/>
+	<s id="11" name="炸弹超人" des="累计使用炸弹道具10个。" count="10" ex="2" rcount="10" rtype="7"/>
+	<s id="12" name="芭啦芭啦变" des="累计使用变身道具10个。" count="10" ex="1" rcount="10" rtype="7"/>
+	<s id="13" name="世界百强" des="进入全国排行榜前100。" count="100" ex="12" rcount="500" rtype="8"/>
+	<s id="14" name="渐入佳境" des="进入全国排行榜前50。" count="50" ex="12" rcount="1000" rtype="8"/>
+	<s id="15" name="十大高手" des="进入全国排行榜前10。" count="10" ex="12" rcount="100" rtype="7"/>
+	<s id="16" name="进入三甲" des="进入全国排行榜前3。" count="3" ex="12" rcount="300" rtype="7"/>
+	<s id="17" name="世界最强" des="进入全国排行榜前1。" count="1" ex="12" rcount="500" rtype="7"/>
+	<s id="18" name="交友达人" des="拥有30个好友。" count="30" ex="14" rcount="20" rtype="9"/>
+	<s id="19" name="点金大师" des="累计消耗2000个金币。" count="2000" ex="8" rcount="500" rtype="8"/>
+	<s id="20" name="初出茅庐" des="角色等级达到10级。" count="10" ex="15" rcount="2" rtype="5"/>
+	<s id="21" name="百战金刚" des="角色等级达到20级。" count="20" ex="15" rcount="5" rtype="4"/>
+	<s id="22" name="终级玩家" des="角色等级达到30级。" count="30" ex="15" rcount="20" rtype="7"/>
+	<s id="23" name="锋芒毕露" des="获得星星100个。" count="100" ex="16" rcount="10" rtype="7"/>
+	<s id="24" name="顶尖高手" des="获得星星200个。" count="200" ex="16" rcount="20" rtype="7"/>
+	<s id="25" name="最强大脑" des="获得星星300个。" count="300" ex="16" rcount="30" rtype="7"/>
+	<s id="26" name="道具达人" des="累计使用30个道具。" count="30" ex="17" rcount="100" rtype="8"/>
+	<s id="27" name="高朋满座" des="好友数量达到50个。" count="50" ex="14" rcount="50" rtype="9"/>
+	<s id="28" name="一马当先" des="通关第10关。" count="10" ex="18" rcount="20" rtype="9"/>
+</ach>

@@ -1,0 +1,18 @@
+<Solution>
+  <PropertyGroup Name="MainScreen" Version="2.3.3.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="boss08hited.csd" Type="Node" />
+        <Image Name="boss8bianq.png" />
+        <Image Name="boss8ku.png" />
+        <Image Name="boss8st.png" />
+        <Image Name="boss8tou.png" />
+        <Image Name="boss8bianq1.png" />
+        <Image Name="boss8bianq2.png" />
+        <Image Name="boss8zb.png" />
+        <PlistInfo Name="boss08packer.csi" Type="Plist" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

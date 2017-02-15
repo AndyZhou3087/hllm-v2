@@ -1,0 +1,25 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="game" Type="Plist" ID="31ad11c5-f076-4931-b273-f5613d12bbf2" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="gamebottom.png" />
+      <FilePathData Path="gameclockbtn0.png" />
+      <FilePathData Path="gamepausebtn.png" />
+      <FilePathData Path="gamepromptbtn.png" />
+      <FilePathData Path="gamerefreshbtn.png" />
+      <FilePathData Path="gamerolestep.png" />
+      <FilePathData Path="gamestagetext.png" />
+      <FilePathData Path="gamestar.png" />
+      <FilePathData Path="gamestarbg.png" />
+      <FilePathData Path="gametimebar.png" />
+      <FilePathData Path="gametimeprogressbg.png" />
+      <FilePathData Path="gametop.png" />
+      <FilePathData Path="gamepropdis.png" />
+      <FilePathData Path="gamebosstext.png" />
+      <FilePathData Path="gameclasictext.png" />
+      <FilePathData Path="gameflashtext.png" />
+      <FilePathData Path="game_propbox.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>

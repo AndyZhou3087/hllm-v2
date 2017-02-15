@@ -1,0 +1,25 @@
+<Solution>
+  <PropertyGroup Name="DemoPlayer" Version="2.3.3.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="boss01.csd" Type="Node" />
+        <Image Name="boss1hua.png" />
+        <Image Name="boss1lian.png" />
+        <Image Name="boss1st.png" />
+        <Image Name="boss1tyyz.png" />
+        <Image Name="boss1yx.png" />
+        <Image Name="boss1yy.png" />
+        <Image Name="boss1yz.png" />
+        <Image Name="boss1zb.png" />
+        <Image Name="boss1zbtgyz.png" />
+        <Image Name="boss1zx.png" />
+        <Image Name="boss1zy.png" />
+        <Image Name="boss1zz.png" />
+        <Image Name="boss1by.png" />
+        <Image Name="boss1by1.png" />
+        <PlistInfo Name="boss01packer.csi" Type="Plist" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

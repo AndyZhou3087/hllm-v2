@@ -1,0 +1,48 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="map" Type="Plist" ID="399bd776-9e0f-4f89-9230-be734929d8f8" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="stage1.png" />
+      <FilePathData Path="stageblank.png" />
+      <FilePathData Path="theme1.jpg" />
+      <FilePathData Path="theme10.jpg" />
+      <FilePathData Path="theme2.jpg" />
+      <FilePathData Path="theme3.jpg" />
+      <FilePathData Path="theme4.jpg" />
+      <FilePathData Path="theme5.jpg" />
+      <FilePathData Path="theme6.jpg" />
+      <FilePathData Path="theme7.jpg" />
+      <FilePathData Path="theme8.jpg" />
+      <FilePathData Path="theme9.jpg" />
+      <FilePathData Path="star0.png" />
+      <FilePathData Path="star1.png" />
+      <FilePathData Path="bw1.png" />
+      <FilePathData Path="bw2.png" />
+      <FilePathData Path="en1.png" />
+      <FilePathData Path="en2.png" />
+      <FilePathData Path="enyz.png" />
+      <FilePathData Path="enyz1.png" />
+      <FilePathData Path="enyz11.png" />
+      <FilePathData Path="enyz12.png" />
+      <FilePathData Path="nine1.png" />
+      <FilePathData Path="nine2.png" />
+      <FilePathData Path="nine3.png" />
+      <FilePathData Path="nine4.png" />
+      <FilePathData Path="nine5.png" />
+      <FilePathData Path="nine6.png" />
+      <FilePathData Path="quan.png" />
+      <FilePathData Path="seven1.png" />
+      <FilePathData Path="seven2.png" />
+      <FilePathData Path="seven3.png" />
+      <FilePathData Path="seven4.png" />
+      <FilePathData Path="seven5.png" />
+      <FilePathData Path="sl1.png" />
+      <FilePathData Path="sl2.png" />
+      <FilePathData Path="ssl1.png" />
+      <FilePathData Path="ssl2.png" />
+      <FilePathData Path="wu1.png" />
+      <FilePathData Path="wu2.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="4096" />
+  </Content>
+</PlistInfoProjectFile>

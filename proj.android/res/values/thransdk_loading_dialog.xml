@@ -1,0 +1,9 @@
+<resources>
+<style name="thransdk_loading_dialog" parent="android:style/Theme.Dialog">  
+        <item name="android:windowFrame">@null</item>  
+        <item name="android:windowNoTitle">true</item>   
+        <item name="android:windowBackground">@drawable/thransdk_dialog_back</item>  
+        <item name="android:windowIsFloating">true</item>  
+        <item name="android:windowContentOverlay">@null</item>  
+</style>
+</resources>

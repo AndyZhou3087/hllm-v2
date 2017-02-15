@@ -1,0 +1,31 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="boss10packer" Type="Plist" ID="305145de-c043-4250-8675-41ddd86bebb8" Version="2.3.3.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="shandiangou/shandiangou_chibang/shandiangou_chibang_1.png" />
+      <FilePathData Path="shandiangou/shandiangou_chibang/shandiangou_chibang_2.png" />
+      <FilePathData Path="shandiangou/shandiangou_chibang/shandiangou_chibang_3.png" />
+      <FilePathData Path="shandiangou/shandiangou_chibang/shandiangou_chibang_4.png" />
+      <FilePathData Path="shandiangou/shandiangou_chibang/shandiangou_chibang_5.png" />
+      <FilePathData Path="shandiangou/shandiangou_chibang/shandiangou_chibang_6.png" />
+      <FilePathData Path="shandiangou/shandiangou_dian/shandiangou_dian1.png" />
+      <FilePathData Path="shandiangou/shandiangou_dian/shandiangou_dian2.png" />
+      <FilePathData Path="shandiangou/shandiangou_dian/shandiangou_dian3.png" />
+      <FilePathData Path="shandiangou/shandiangou_qiantui_you.png" />
+      <FilePathData Path="shandiangou/shandiangou_qiantui_zuo.png" />
+      <FilePathData Path="shandiangou/shandiangou_shenti.png" />
+      <FilePathData Path="shandiangou/shandiangou_tou.png" />
+      <FilePathData Path="shandiangou/shandiangou_weiba/shandiangou_weiba1.png" />
+      <FilePathData Path="shandiangou/shandiangou_weiba/shandiangou_weiba2.png" />
+      <FilePathData Path="shandiangou/shandiangou_weiba/shandiangou_weiba3.png" />
+      <FilePathData Path="shandiangou/shandiangou_weiba/shandiangou_weiba4.png" />
+      <FilePathData Path="shandiangou/shandiangou_yanjing.png" />
+      <FilePathData Path="shandiangou/shandiangou_yanjing_biyan.png" />
+      <FilePathData Path="shandiangou/shandiangou_youerduo.png" />
+      <FilePathData Path="shandiangou/shandiangou_zuoerduo.png" />
+      <FilePathData Path="shandiangou/shandiangou_houtui_you.png" />
+      <FilePathData Path="shandiangou/shandiangou_houtui_zuo.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

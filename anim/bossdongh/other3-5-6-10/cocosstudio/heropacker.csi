@@ -1,0 +1,43 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="heropacker" Type="Plist" ID="f85b4a30-c59d-48c3-a745-2a6bd6ac5021" Version="2.3.3.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="tuzi/tuzi_yanlei_you/tuzi_yanlei_you_1.png" />
+      <FilePathData Path="tuzi/tuzi_yanlei_you/tuzi_yanlei_you_2.png" />
+      <FilePathData Path="tuzi/tuzi_yanlei_you/tuzi_yanlei_you_3.png" />
+      <FilePathData Path="tuzi/tuzi_yanlei_zuo/tuzi_yanlei_zuo_1.png" />
+      <FilePathData Path="tuzi/tuzi_yanlei_zuo/tuzi_yanlei_zuo_2.png" />
+      <FilePathData Path="tuzi/tuzi_yanlei_zuo/tuzi_yanlei_zuo_3.png" />
+      <FilePathData Path="tuzi/tuzi_erduo_you_shang_1.png" />
+      <FilePathData Path="tuzi/tuzi_erduo_you_xia.png" />
+      <FilePathData Path="tuzi/tuzi_erduo_you_xia_2.png" />
+      <FilePathData Path="tuzi/tuzi_erduo_zuo_shang.png" />
+      <FilePathData Path="tuzi/tuzi_erduo_zuo_xia.png" />
+      <FilePathData Path="tuzi/tuzi_huluobo.png" />
+      <FilePathData Path="tuzi/tuzi_huluobo_yezi.png" />
+      <FilePathData Path="tuzi/tuzi_pifeng_hou.png" />
+      <FilePathData Path="tuzi/tuzi_pifeng_qian.png" />
+      <FilePathData Path="tuzi/tuzi_pifeng_qian_you.png" />
+      <FilePathData Path="tuzi/tuzi_pifeng_qian_zuo.png" />
+      <FilePathData Path="tuzi/tuzi_shenti_1.png" />
+      <FilePathData Path="tuzi/tuzi_shenti_2.png" />
+      <FilePathData Path="tuzi/tuzi_tou.png" />
+      <FilePathData Path="tuzi/tuzi_yanjing.png" />
+      <FilePathData Path="tuzi/tuzi_yanjing_banzheng.png" />
+      <FilePathData Path="tuzi/tuzi_yanjing_biyan.png" />
+      <FilePathData Path="tuzi/tuzi_yanjing_ku.png" />
+      <FilePathData Path="tuzi/tuzi_youbi_shang.png" />
+      <FilePathData Path="tuzi/tuzi_youbi_xia.png" />
+      <FilePathData Path="tuzi/tuzi_youjiao.png" />
+      <FilePathData Path="tuzi/tuzi_youtui.png" />
+      <FilePathData Path="tuzi/tuzi_zui.png" />
+      <FilePathData Path="tuzi/tuzi_zui_shang.png" />
+      <FilePathData Path="tuzi/tuzi_zui_xia.png" />
+      <FilePathData Path="tuzi/tuzi_zuobi_shang.png" />
+      <FilePathData Path="tuzi/tuzi_zuobi_xia.png" />
+      <FilePathData Path="tuzi/tuzi_zuojiao.png" />
+      <FilePathData Path="tuzi/tuzi_zuotui.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

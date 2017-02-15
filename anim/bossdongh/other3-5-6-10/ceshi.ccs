@@ -1,0 +1,253 @@
+<Solution>
+  <PropertyGroup Name="ceshi" Version="2.3.3.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="tuzi">
+          <Image Name="tuzi_shenti_2.png" />
+          <Image Name="tuzi_tou.png" />
+          <Image Name="tuzi_yanjing.png" />
+          <Image Name="tuzi_yanjing_banzheng.png" />
+          <Image Name="tuzi_yanjing_biyan.png" />
+          <Image Name="tuzi_youjiao.png" />
+          <Image Name="tuzi_youtui.png" />
+          <Image Name="tuzi_zui.png" />
+          <Image Name="tuzi_zuobi_xia.png" />
+          <Image Name="tuzi_zuojiao.png" />
+          <Image Name="tuzi_zuotui.png" />
+          <Image Name="tuzi_shenti_1.png" />
+          <Image Name="tuzi_erduo_you_shang_1.png" />
+          <Image Name="tuzi_erduo_you_xia.png" />
+          <Image Name="tuzi_erduo_zuo_shang.png" />
+          <Image Name="tuzi_erduo_zuo_xia.png" />
+          <Image Name="tuzi_pifeng_qian.png" />
+          <Image Name="tuzi_pifeng_qian_you.png" />
+          <Image Name="tuzi_pifeng_qian_zuo.png" />
+          <Image Name="tuzi_youbi_shang.png" />
+          <Image Name="tuzi_youbi_xia.png" />
+          <Image Name="tuzi_zuobi_shang.png" />
+          <Image Name="tuzi_pifeng_hou.png" />
+          <Image Name="tuzi_huluobo.png" />
+          <Image Name="tuzi_huluobo_yezi.png" />
+          <Folder Name="tuzi_yanlei_you">
+            <Image Name="tuzi_yanlei_you_1.png" />
+            <Image Name="tuzi_yanlei_you_2.png" />
+            <Image Name="tuzi_yanlei_you_3.png" />
+          </Folder>
+          <Folder Name="tuzi_yanlei_zuo">
+            <Image Name="tuzi_yanlei_zuo_1.png" />
+            <Image Name="tuzi_yanlei_zuo_2.png" />
+            <Image Name="tuzi_yanlei_zuo_3.png" />
+          </Folder>
+          <Image Name="tuzi_erduo_you_xia_2.png" />
+          <Image Name="tuzi_yanjing_ku.png" />
+          <Image Name="tuzi_zui_shang.png" />
+          <Image Name="tuzi_zui_xia.png" />
+        </Folder>
+        <Folder Name="bingguai">
+          <Image Name="bingguai_bing1.png" />
+          <Image Name="bingguai_bing2.png" />
+          <Image Name="bingguai_shenti.png" />
+          <Image Name="bingguai_tou.png" />
+          <Image Name="bingguai_xuehua1.png" />
+          <Image Name="bingguai_xuehua2.png" />
+          <Image Name="bingguai_xuehua3.png" />
+          <Image Name="bingguai_xuehua4.png" />
+          <Image Name="bingguai_yanjing.png" />
+          <Image Name="bingguai_yanjing_banzheng.png" />
+          <Image Name="bingguai_yanjing_biyan.png" />
+          <Image Name="bingguai_yanjing_ku.png" />
+          <Image Name="bingguai_youbi.png" />
+          <Image Name="bingguai_youer.png" />
+          <Image Name="bingguai_youjiao.png" />
+          <Image Name="bingguai_youshou.png" />
+          <Image Name="bingguai_youtui.png" />
+          <Image Name="bingguai_zuoer.png" />
+          <Image Name="bingguai_zuojiao.png" />
+          <Image Name="bingguai_zuoshou.png" />
+          <Image Name="bingguai_zuotui.png" />
+        </Folder>
+        <Folder Name="xianrenzhang">
+          <Image Name="xianrenzhang_bozi.png" />
+          <Image Name="xianrenzhang_ci.png" />
+          <Image Name="xianrenzhang_lian1.png" />
+          <Image Name="xianrenzhang_lian2.png" />
+          <Image Name="xianrenzhang_shenti.png" />
+          <Image Name="xianrenzhang_tou.png" />
+          <Image Name="xianrenzhang_yanjing.png" />
+          <Image Name="xianrenzhang_yanjing_banzheng.png" />
+          <Image Name="xianrenzhang_yanjing_biyan.png" />
+          <Image Name="xianrenzhang_you_erduo.png" />
+          <Image Name="xianrenzhang_you_gebo_xia.png" />
+          <Image Name="xianrenzhang_zuo_erduo.png" />
+          <Image Name="xianrenzhang_zuo_gebo.png" />
+          <Image Name="xianrenzhang_zuo_shou.png" />
+          <Image Name="xianrenzhang_zuo_shou_xing.png" />
+          <Image Name="xianrenzhang_you_gebo_shang.png" />
+          <Folder Name="xianrenzhang_dizuo">
+            <Image Name="xianrenzhang_dizuo_01.png" />
+            <Image Name="xianrenzhang_dizuo_10.png" />
+            <Image Name="xianrenzhang_dizuo_11.png" />
+            <Image Name="xianrenzhang_dizuo_12.png" />
+            <Image Name="xianrenzhang_dizuo_13.png" />
+            <Image Name="xianrenzhang_dizuo_14.png" />
+            <Image Name="xianrenzhang_dizuo_15.png" />
+            <Image Name="xianrenzhang_dizuo_16.png" />
+            <Image Name="xianrenzhang_dizuo_17.png" />
+            <Image Name="xianrenzhang_dizuo_18.png" />
+            <Image Name="xianrenzhang_dizuo_19.png" />
+            <Image Name="xianrenzhang_dizuo_02.png" />
+            <Image Name="xianrenzhang_dizuo_20.png" />
+            <Image Name="xianrenzhang_dizuo_21.png" />
+            <Image Name="xianrenzhang_dizuo_22.png" />
+            <Image Name="xianrenzhang_dizuo_23.png" />
+            <Image Name="xianrenzhang_dizuo_24.png" />
+            <Image Name="xianrenzhang_dizuo_25.png" />
+            <Image Name="xianrenzhang_dizuo_26.png" />
+            <Image Name="xianrenzhang_dizuo_27.png" />
+            <Image Name="xianrenzhang_dizuo_28.png" />
+            <Image Name="xianrenzhang_dizuo_29.png" />
+            <Image Name="xianrenzhang_dizuo_03.png" />
+            <Image Name="xianrenzhang_dizuo_04.png" />
+            <Image Name="xianrenzhang_dizuo_05.png" />
+            <Image Name="xianrenzhang_dizuo_06.png" />
+            <Image Name="xianrenzhang_dizuo_07.png" />
+            <Image Name="xianrenzhang_dizuo_08.png" />
+            <Image Name="xianrenzhang_dizuo_09.png" />
+          </Folder>
+          <Folder Name="xianrenzhang_you_hua">
+            <Image Name="xianrenzhang_you_hua_01.png" />
+            <Image Name="xianrenzhang_you_hua_10.png" />
+            <Image Name="xianrenzhang_you_hua_11.png" />
+            <Image Name="xianrenzhang_you_hua_12.png" />
+            <Image Name="xianrenzhang_you_hua_13.png" />
+            <Image Name="xianrenzhang_you_hua_14.png" />
+            <Image Name="xianrenzhang_you_hua_15.png" />
+            <Image Name="xianrenzhang_you_hua_16.png" />
+            <Image Name="xianrenzhang_you_hua_17.png" />
+            <Image Name="xianrenzhang_you_hua_18.png" />
+            <Image Name="xianrenzhang_you_hua_19.png" />
+            <Image Name="xianrenzhang_you_hua_02.png" />
+            <Image Name="xianrenzhang_you_hua_20.png" />
+            <Image Name="xianrenzhang_you_hua_21.png" />
+            <Image Name="xianrenzhang_you_hua_22.png" />
+            <Image Name="xianrenzhang_you_hua_23.png" />
+            <Image Name="xianrenzhang_you_hua_24.png" />
+            <Image Name="xianrenzhang_you_hua_25.png" />
+            <Image Name="xianrenzhang_you_hua_26.png" />
+            <Image Name="xianrenzhang_you_hua_27.png" />
+            <Image Name="xianrenzhang_you_hua_28.png" />
+            <Image Name="xianrenzhang_you_hua_29.png" />
+            <Image Name="xianrenzhang_you_hua_03.png" />
+            <Image Name="xianrenzhang_you_hua_30.png" />
+            <Image Name="xianrenzhang_you_hua_04.png" />
+            <Image Name="xianrenzhang_you_hua_05.png" />
+            <Image Name="xianrenzhang_you_hua_06.png" />
+            <Image Name="xianrenzhang_you_hua_07.png" />
+            <Image Name="xianrenzhang_you_hua_08.png" />
+            <Image Name="xianrenzhang_you_hua_09.png" />
+          </Folder>
+          <Folder Name="xianrenzhang_zuo_hua">
+            <Image Name="xianrenzhang_zuo_hua_01.png" />
+            <Image Name="xianrenzhang_zuo_hua_10.png" />
+            <Image Name="xianrenzhang_zuo_hua_11.png" />
+            <Image Name="xianrenzhang_zuo_hua_12.png" />
+            <Image Name="xianrenzhang_zuo_hua_13.png" />
+            <Image Name="xianrenzhang_zuo_hua_14.png" />
+            <Image Name="xianrenzhang_zuo_hua_15.png" />
+            <Image Name="xianrenzhang_zuo_hua_16.png" />
+            <Image Name="xianrenzhang_zuo_hua_17.png" />
+            <Image Name="xianrenzhang_zuo_hua_18.png" />
+            <Image Name="xianrenzhang_zuo_hua_19.png" />
+            <Image Name="xianrenzhang_zuo_hua_02.png" />
+            <Image Name="xianrenzhang_zuo_hua_20.png" />
+            <Image Name="xianrenzhang_zuo_hua_21.png" />
+            <Image Name="xianrenzhang_zuo_hua_22.png" />
+            <Image Name="xianrenzhang_zuo_hua_23.png" />
+            <Image Name="xianrenzhang_zuo_hua_24.png" />
+            <Image Name="xianrenzhang_zuo_hua_25.png" />
+            <Image Name="xianrenzhang_zuo_hua_26.png" />
+            <Image Name="xianrenzhang_zuo_hua_27.png" />
+            <Image Name="xianrenzhang_zuo_hua_28.png" />
+            <Image Name="xianrenzhang_zuo_hua_29.png" />
+            <Image Name="xianrenzhang_zuo_hua_03.png" />
+            <Image Name="xianrenzhang_zuo_hua_30.png" />
+            <Image Name="xianrenzhang_zuo_hua_04.png" />
+            <Image Name="xianrenzhang_zuo_hua_05.png" />
+            <Image Name="xianrenzhang_zuo_hua_06.png" />
+            <Image Name="xianrenzhang_zuo_hua_07.png" />
+            <Image Name="xianrenzhang_zuo_hua_08.png" />
+            <Image Name="xianrenzhang_zuo_hua_09.png" />
+          </Folder>
+        </Folder>
+        <Folder Name="wushi">
+          <Image Name="wushi_lian1.png" />
+          <Image Name="wushi_lian2.png" />
+          <Image Name="wushi_lingjie.png" />
+          <Image Name="wushi_maozi.png" />
+          <Image Name="wushi_youbi_shang.png" />
+          <Image Name="wushi_youbi_xia.png" />
+          <Image Name="wushi_youbi_xia2.png" />
+          <Image Name="wushi_youshou_1.png" />
+          <Image Name="wushi_youshou_2.png" />
+          <Image Name="wushi_zuobi_shang.png" />
+          <Image Name="wushi_zuobi_xia.png" />
+          <Image Name="wushi_zuobi_xia2.png" />
+          <Image Name="wushi_zuoshou_1.png" />
+          <Image Name="wushi_zuoshou_2.png" />
+          <Image Name="wushi_weiba1.png" />
+          <Image Name="wushi_weiba2.png" />
+          <Image Name="wushi_weiba3.png" />
+        </Folder>
+        <Folder Name="shandiangou">
+          <Folder Name="shandiangou_chibang">
+            <Image Name="shandiangou_chibang_1.png" />
+            <Image Name="shandiangou_chibang_2.png" />
+            <Image Name="shandiangou_chibang_3.png" />
+            <Image Name="shandiangou_chibang_4.png" />
+            <Image Name="shandiangou_chibang_5.png" />
+            <Image Name="shandiangou_chibang_6.png" />
+          </Folder>
+          <Folder Name="shandiangou_dian">
+            <Image Name="shandiangou_dian1.png" />
+            <Image Name="shandiangou_dian2.png" />
+            <Image Name="shandiangou_dian3.png" />
+          </Folder>
+          <Image Name="shandiangou_qiantui_you.png" />
+          <Image Name="shandiangou_qiantui_zuo.png" />
+          <Image Name="shandiangou_shenti.png" />
+          <Image Name="shandiangou_tou.png" />
+          <Folder Name="shandiangou_weiba">
+            <Image Name="shandiangou_weiba1.png" />
+            <Image Name="shandiangou_weiba2.png" />
+            <Image Name="shandiangou_weiba3.png" />
+            <Image Name="shandiangou_weiba4.png" />
+          </Folder>
+          <Image Name="shandiangou_yanjing.png" />
+          <Image Name="shandiangou_yanjing_biyan.png" />
+          <Image Name="shandiangou_youerduo.png" />
+          <Image Name="shandiangou_zuoerduo.png" />
+          <Image Name="shandiangou_houtui_you.png" />
+          <Image Name="shandiangou_houtui_zuo.png" />
+        </Folder>
+        <Project Name="boss06hited.csd" Type="Node" />
+        <Project Name="boss06.csd" Type="Node" />
+        <PlistInfo Name="boss6packer.csi" Type="Plist" />
+        <Project Name="boss10.csd" Type="Node" />
+        <Project Name="boss10hited.csd" Type="Node" />
+        <PlistInfo Name="boss10packer.csi" Type="Plist" />
+        <Project Name="herofail.csd" Type="Node" />
+        <Project Name="hero.csd" Type="Node" />
+        <Project Name="herolvup.csd" Type="Node" />
+        <Project Name="herohit.csd" Type="Node" />
+        <PlistInfo Name="heropacker.csi" Type="Plist" />
+        <Project Name="boss05.csd" Type="Node" />
+        <Project Name="boss03hited.csd" Type="Node" />
+        <Project Name="boss03.csd" Type="Node" />
+        <Project Name="boss05hited.csd" Type="Node" />
+        <PlistInfo Name="boss03packer.csi" Type="Plist" />
+        <PlistInfo Name="boss05packer.csi.csi" Type="Plist" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

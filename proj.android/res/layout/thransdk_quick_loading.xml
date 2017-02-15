@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/dialog_view"   
+    android:orientation="vertical"  
+    android:layout_width="fill_parent"   
+    android:layout_height="fill_parent"  
+    android:minHeight="60dp"  
+    android:minWidth="180dp"  
+    android:gravity="center"  
+   >
+    
+    <RelativeLayout
+        android:id = "@+id/nearLt"
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:orientation="vertical" >
+       <TextView
+            android:id="@+id/loading_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dip"
+            android:textSize="18sp"
+             android:textColor="#5c2e00"
+            />
+        
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="80dp"
+            android:layout_below="@+id/loading_title"
+            android:layout_marginTop="5dp"
+            android:orientation="vertical"
+            android:gravity="left"
+            android:background="@drawable/thransdk_dialog_mid">
+            
+            <TextView
+                 android:id = "@+id/loading_pro"
+                 android:layout_width="fill_parent"
+                 android:layout_height="wrap_content"
+                  android:layout_marginTop="20dp"
+                 android:layout_marginLeft="10dp"
+                 android:layout_marginRight="10dp"
+                 android:textSize="12sp"
+                 android:text="pay"
+                 android:textColor="#5c2e00"
+                />
+        </LinearLayout>
+          <ImageView
+            android:id="@+id/img"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+             android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+             android:layout_marginBottom="25dp"
+            android:layout_gravity="center"
+             android:src="@drawable/thransdk_loading"
+            />
+          
+             <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/thransdk_cu_server"
+            android:textSize="12sp"
+             android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="5dp"
+            android:textColor="#6a4729"
+                />
+    </RelativeLayout>
+    
+</LinearLayout>

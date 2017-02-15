@@ -1,0 +1,21 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="boss09packer" Type="Plist" ID="5e312a3a-19d7-46d4-82b0-1541060de8ad" Version="2.3.3.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="boss91.png" />
+      <FilePathData Path="boss92.png" />
+      <FilePathData Path="boss93.png" />
+      <FilePathData Path="boss94.png" />
+      <FilePathData Path="boss95.png" />
+      <FilePathData Path="boss96.png" />
+      <FilePathData Path="boss97.png" />
+      <FilePathData Path="boss98.png" />
+      <FilePathData Path="boss9ku.png" />
+      <FilePathData Path="boss9st.png" />
+      <FilePathData Path="boss9yj.png" />
+      <FilePathData Path="boss9ys.png" />
+      <FilePathData Path="boss9zs.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

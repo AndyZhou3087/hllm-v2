@@ -1,0 +1,59 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="heropacker" Type="Plist" ID="be5d608b-6a7c-44ba-8819-fff88c50f982" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="cgl.png" />
+      <FilePathData Path="lb.png" />
+      <FilePathData Path="rabbit_bizi.png" />
+      <FilePathData Path="rabbit_bizi_daxiao.png" />
+      <FilePathData Path="rabbit_bizi_waitou.png" />
+      <FilePathData Path="rabbit_bizi_zhayan.png" />
+      <FilePathData Path="rabbit_body.png" />
+      <FilePathData Path="rabbit_eyes.png" />
+      <FilePathData Path="rabbit_head.png" />
+      <FilePathData Path="rabbit_hudiejie.png" />
+      <FilePathData Path="rabbit_hudiejieyy.png" />
+      <FilePathData Path="rabbit_meimao.png" />
+      <FilePathData Path="rabbit_meimao_daxiao.png" />
+      <FilePathData Path="rabbit_meimao_juezui.png" />
+      <FilePathData Path="rabbit_meimao_kumeimao.png" />
+      <FilePathData Path="rabbit_meimao_kuyanjing.png" />
+      <FilePathData Path="rabbit_meimao_kuyoushou1.png" />
+      <FilePathData Path="rabbit_meimao_kuyoushou2.png" />
+      <FilePathData Path="rabbit_meimao_kuzuiba.png" />
+      <FilePathData Path="rabbit_meimao_kuzuoshou1.png" />
+      <FilePathData Path="rabbit_meimao_kuzuoshou2.png" />
+      <FilePathData Path="rabbit_meimao_waitou.png" />
+      <FilePathData Path="rabbit_meimao_yanlei.png" />
+      <FilePathData Path="rabbit_menya.png" />
+      <FilePathData Path="rabbit_menya_daxiao.png" />
+      <FilePathData Path="rabbit_menya_waitou.png" />
+      <FilePathData Path="rabbit_menya_zhayan.png" />
+      <FilePathData Path="rabbit_tou_waitou.png" />
+      <FilePathData Path="rabbit_yanjing_daxiao.png" />
+      <FilePathData Path="rabbit_yanjing_juezui.png" />
+      <FilePathData Path="rabbit_yanjing_waitou.png" />
+      <FilePathData Path="rabbit_yanjing1_zhayan.png" />
+      <FilePathData Path="rabbit_yanjing2_zhayan.png" />
+      <FilePathData Path="rabbit_yanjing3_zhayan.png" />
+      <FilePathData Path="rabbit_youerduo1.png" />
+      <FilePathData Path="rabbit_youerduo2.png" />
+      <FilePathData Path="rabbit_youerduo3.png" />
+      <FilePathData Path="rabbit_youjiao.png" />
+      <FilePathData Path="rabbit_youshou.png" />
+      <FilePathData Path="rabbit_zuiba.png" />
+      <FilePathData Path="rabbit_zuiba_daxiao.png" />
+      <FilePathData Path="rabbit_zuiba_juezui.png" />
+      <FilePathData Path="rabbit_zuiba_kubizi.png" />
+      <FilePathData Path="rabbit_zuiba_waitou.png" />
+      <FilePathData Path="rabbit_zuiba_zhayan.png" />
+      <FilePathData Path="rabbit_zuoerduo1.png" />
+      <FilePathData Path="rabbit_zuoerduo2.png" />
+      <FilePathData Path="rabbit_zuoerduo3.png" />
+      <FilePathData Path="rabbit_zuojiao.png" />
+      <FilePathData Path="rabbit_zuoshou.png" />
+      <FilePathData Path="sbl.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>
